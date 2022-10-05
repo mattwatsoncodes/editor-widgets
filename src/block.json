@@ -1,0 +1,22 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 2,
+	"name": "editor-widgets/editor-widgets",
+	"version": "0.1.0",
+	"title": "Widget Area",
+	"category": "widgets",
+	"icon": "screenoptions",
+	"description": "Proof of Concept for block based 'widget areas' within a FSE theme.",
+	"supports": {
+		"html": false
+	},
+	"textdomain": "editor-widgets",
+	"editorScript": "file:./index.js",
+	"editorStyle": "file:./index.css",
+	"style": "file:./style-index.css",
+	"attributes": {
+		"widgetArea": {
+			"type": "string"
+		}
+	}
+}
