@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name:       Editor Widgets
- * Description:       Proof of Concept for block based &#39;widget areas&#39; within a FSE theme.
+ * Description:       Proof of Concept for block based 'widget areas' within a FSE theme.
  * Requires at least: 5.9
  * Requires PHP:      7.0
  * Version:           0.1.0
